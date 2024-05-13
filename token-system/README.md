@@ -1,4 +1,4 @@
-### Token System Overview
+# Token System Overview
 
 #### Daily Token Grant
 

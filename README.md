@@ -16,9 +16,11 @@ This API was developed to mirror the full capabilitie and formatting of the Open
 
 ### Table of Contents
 
-[Code-Samples](code-samples folder)
-[API Quirks & Weirdnesses](api-quirks folder)
-[ZukiJourney's Token System]
+#### [Code-Samples](https://github.com/zukijourney/api-docs/blob/main/code-samples/README.md)
+
+#### [API Quirks & Weirdnesses](https://github.com/zukijourney/api-docs/blob/main/api-quirks/README.md)
+
+#### [ZukiJourney's Token System](https://github.com/zukijourney/api-docs/blob/main/token-system/README.md)
 
 ### Obtaining Your Api-Key
 

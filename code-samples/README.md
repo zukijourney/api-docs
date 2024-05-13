@@ -1,4 +1,4 @@
-### Code Samples:
+# Code Samples:
 
 - Explore our code samples in the zukijourney-tests repository here: [API-Tests](https://github.com/zukijourney/api-tests)
 - We utilize these code samples as part of our internal testing to verify whether certain parts of the API are operational.

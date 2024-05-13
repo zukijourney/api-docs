@@ -1,4 +1,4 @@
-### Zukijourney Quirks: Important Considerations
+# Zukijourney Quirks: Important Considerations
 
 #### Request Handling
 
