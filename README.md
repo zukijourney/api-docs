@@ -4,7 +4,7 @@ Welcome to the zukijourney api -- the largest multi-ai api of its kind! This gui
 
 This API was developed to mirror the full capabilitie and formatting of the OpenAI API. Consequently, the OpenAI API documentation is equally valid here. For accessing our API, simply use the OpenAI client in the following way: `OpenAI(base_url="https://zukijourney.xyzbot.net/v1",api_key='zu-...')`. Please note, formats such as Anthropic's `v1/complete` are not, and will not be supported.
 
-### Upfront...
+## Upfront...
 
 - The API is open source! Explore our V2 codebase here: [API-OSS](https://github.com/zukijourney/api-oss)
 - The current release, version 2.5, exhibits minor differences that are mostly imperceptible.
@@ -14,15 +14,15 @@ This API was developed to mirror the full capabilitie and formatting of the Open
 
 **Everything may be fabricated and therefore not real, I am unaware of any illegal activities, documentation will not be taken as admission of guilt.**
 
-### Table of Contents
+## Table of Contents
 
-#### [Code-Samples](https://github.com/zukijourney/api-docs/blob/main/code-samples/README.md)
+### [Code-Samples](https://github.com/zukijourney/api-docs/blob/main/code-samples/README.md)
 
-#### [API Quirks & Weirdnesses](https://github.com/zukijourney/api-docs/blob/main/api-quirks/README.md)
+### [API Quirks & Weirdnesses](https://github.com/zukijourney/api-docs/blob/main/api-quirks/README.md)
 
-#### [ZukiJourney's Token System](https://github.com/zukijourney/api-docs/blob/main/token-system/README.md)
+### [ZukiJourney's Token System](https://github.com/zukijourney/api-docs/blob/main/token-system/README.md)
 
-### Obtaining Your Api-Key
+## Obtaining Your Api-Key
 
 - **Generate Key**: To get your Api-Key, simply use the `/key` command with zuki.api. Below is a gif demonstrating how to do it:
 
