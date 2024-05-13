@@ -15,7 +15,7 @@
 - Different models affect the token cost by certain multipliers:
   | Multiplier | Models/Categories |
   | --- | --- |
-  | 1.5x | chat, all multimodal/tools requests, claude-3-opus, gpt-4-1106-preview and later |
+  | 1.5x | all multimodal/tools requests, claude-3-opus, gpt-4-1106-preview and later |
   | 1.25x | gpt-4-32k and later, claude-3-sonnet/haiku, gemini-1.5 |
   | 1x | all models with provider=perplexity or deepinfra, gpt-3.5, claude-2, mistrals, gemini-pro |
   | 0.75x | all models by replicate |
@@ -42,4 +42,4 @@
 - KoFi Link is available [right here](https://ko-fi.com/zukixa)
 - Crypto-equivalent payments are accepted; any Coinbase-supported cryptocurrency is supported. Contact ZukiJourney executives via the #tickets channel for further details. Go via [ZukiJourney's Discords Tickets](https://discord.com/channels/1090022628946886726/1099424338287014029/1099426357219438612)
 - Enterprise-level donors can request specific arrangements or benefits by opening a ticket, in the [same place](https://discord.com/channels/1090022628946886726/1099424338287014029/1099426357219438612)
-- All donations include additional perks with the @zuki.gm bot. Further information can be found in the [ZukiJourney server](https://discord.com/channels/1090022628946886726/1147595903537000539/1147600594316578926)
+- All donations & boosts include additional perks with the @zuki.gm bot. Further information can be found in the [ZukiJourney server](https://discord.com/channels/1090022628946886726/1147595903537000539/1147600594316578926)
