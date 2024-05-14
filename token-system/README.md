@@ -24,7 +24,7 @@
 #### Specific Costs for Various Endpoints
 
 - Images: Midjourney: 20k, SD3/DALLE-3: 1000, replicate: 250, prodia: 100
-- Embeddings, moderations, upscale, text translations, all audio: static cost of 50 tokens per request
+- Embeddings, moderations, upscale, text translations, all audio: static cost of 100 tokens per request
 
 ### Token Allocation Based on Roles
 
