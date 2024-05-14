@@ -31,9 +31,9 @@
 #### Daily Token Allowances
 
 - **@Member**: 22,500/day | ~100 msg/day | Everyone in the ZukiJourney Server | IP-Locked Key | Low Priority Support
-- **@Booster**: 225,000/day | ~300 msg/day | Boosters of the ZukiJourney Server | IP-Locked Key | Medium Priority Support
-- **@Donator**: 225,000/day | ~300 msg/day | One-Time Donators to ZukiJourney Executives @ $5 value | IP-Locked Key | Medium Priority Support
-- **@Early Supporter/Contributor**: 225,000/day | ~300 msg/day | Early One-Time Donators to ZukiJourney Executives (Unavailable for Purchase) | IP-Locked Key | Medium Priority Support
+- **@Booster**: 200,000/day | ~300 msg/day | Boosters of the ZukiJourney Server | IP-Locked Key | Medium Priority Support
+- **@Donator**: 200,000/day | ~300 msg/day | One-Time Donators to ZukiJourney Executives @ >$5 value | IP-Locked Key | Medium Priority Support
+- **@Early Supporter/Contributor**: 225,000/day | ~350 msg/day | Early One-Time Donators to ZukiJourney Executives (Unavailable for Purchase) | IP-Locked Key | Medium Priority Support
 - **@Subscriber**: 450,000/day | ~800 msg/day | Subscribers to the KoFi of @zukixa @ ~$10/mo value. | IP-Free Key | High Priority Support
 - **@Enterprise**: 2,500,000/day | ~5000 msg/day | Subscribers to the KoFi of @zukixa @ $100/mo value. | IP-Free Key | Highest Priority Support
 
