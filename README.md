@@ -26,7 +26,7 @@ This API was developed to mirror the full capabilitie and formatting of the Open
 
 - **Generate Key**: To get your Api-Key, simply use the `/key` command with zuki.api. Below is a gif demonstrating how to do it:
 
-  ![Using /key Command](https://cdn.discordapp.com/attachments/1104609262954622996/1172782458580766730/ezgif.com-video-to-gif.gif?ex=66425987&is=66410807&hm=d438de97724fba4c55c5d36321bccdaaffa1b5317ca0071c13171d7d991cb8c8&)
+  ![Using /key Command](https://files.catbox.moe/k9x9tm.gif)
 
 - **Gamble Your Credits**: Feel adventurous? You can gamble your credit amount using the `/gamble` command. This feature is a nod to stake.com.
 
