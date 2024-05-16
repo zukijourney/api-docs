@@ -11,6 +11,11 @@
 - **Key Suspension**: Leaving the ZukiJourney server will result in suspension of your Api-Key. Rejoining does not automatically restore access unless the situation is directly communicated and resolved.
 - **Account and API Usage**: Each person is limited to one account. Misuse, such as using alt accounts or DDOS attacks on the API, will trigger automatic punitive measures.
 
+# Caramelldansen-1
+- **Caramelldansen-1** and its **-plus** version are our own in-house developed LLM models! Fine-Tuned on Mixtral-8x22b with special datasets, the model achieves a performance that sits right well with its other similar models, such as dbrx-instruct.
+- The model is available @ **0.5x cost for all users**, with **-plus** being donator+.
+
+
 #### Administrative Rights
 
 - **Access Regulation**: I reserve the right to grant or revoke access, premium features, or any benefits related to this API for any reason at my discretion.
