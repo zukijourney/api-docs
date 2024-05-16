@@ -19,7 +19,7 @@
   | 1.25x | gpt-4-32k and later, claude-3-sonnet/haiku, gemini-1.5 |
   | 1x | all models with provider=perplexity or deepinfra, gpt-3.5, claude-2, mistrals, gemini-pro |
   | 0.75x | all models by replicate |
-  | 0.5x | all models by cloudflare |
+  | 0.5x | all models by cloudflare & our own models: caramelldansen-1 & caramelldansen-1-plus |
 
 #### Specific Costs for Various Endpoints
 
