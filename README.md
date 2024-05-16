@@ -22,6 +22,12 @@ This API was developed to mirror the full capabilitie and formatting of the Open
 
 ### [ZukiJourney's Token System](https://github.com/zukijourney/api-docs/blob/main/token-system/README.md)
 
+## Donate for Higher Tiers
+
+- A reminder that you can either donate on [KoFi](https://ko-fi.com/zukixa) with nearly every payment method possible, or you can join the [zukijourney discord server](https://discord.gg/zukijourney), go to the [tickets](https://discord.com/channels/1090022628946886726/1099424338287014029/1099426357219438612) channel, and coordinate a purchase via crypto!
+
+- You can see the benefits you can receive here: [Benefits Table](https://github.com/zukijourney/api-docs/tree/main/token-system#daily-token-allowances)
+
 ## Obtaining Your Api-Key
 
 - **Generate Key**: To get your Api-Key, simply use the `/key` command with zuki.api. Below is a gif demonstrating how to do it:
