@@ -28,14 +28,56 @@
 
 ### Token Allocation Based on Roles
 
-#### Daily Token Allowances
+Here's a nicely formatted version of the daily token allowances with clear headings and standardized descriptions to enhance readability:
 
-- **@Member**: 22,500/day | ~100 msg/day | Everyone in the ZukiJourney Server | IP-Locked Key | Low Priority Support
-- **@Booster**: 200,000/day | ~300 msg/day | Boosters of the ZukiJourney Server | IP-Locked Key | Medium Priority Support
-- **@Donator**: 200,000/day | ~300 msg/day | One-Time Donators to ZukiJourney Executives @ >$5 value | IP-Locked Key | Medium Priority Support
-- **@Early Supporter/Contributor**: 225,000/day | ~350 msg/day | Early One-Time Donators to ZukiJourney Executives (Unavailable for Purchase) | IP-Locked Key | Medium Priority Support
-- **@Subscriber**: 450,000/day | ~800 msg/day | Subscribers to the KoFi of @zukixa @ ~$10/mo value. | IP-Free Key | High Priority Support
-- **@Enterprise**: 2,500,000/day | ~5000 msg/day | Subscribers to the KoFi of @zukixa @ $100/mo value. | IP-Free Key | Highest Priority Support
+---
+
+### **Daily Token Allowances**
+
+**Roles and Privileges in the ZukiJourney Server:**
+
+- **@Member**
+  - **Tokens**: 22,500 per day
+  - **Messages**: Approximately 126 messages per day
+  - **Access Level**: Available to everyone in the ZukiJourney Server
+  - **Key**: IP-Locked Key
+  - **Support Priority**: Low
+
+- **@Booster**
+  - **Tokens**: 200,000 per day
+  - **Messages**: Approximately 400 messages per day
+  - **Access Level**: Boosters of the ZukiJourney Server
+  - **Key**: IP-Locked Key
+  - **Support Priority**: Medium
+
+- **@Donator**
+  - **Tokens**: 200,000 per day
+  - **Messages**: Approximately 400 messages per day
+  - **Access Level**: One-time donations to ZukiJourney Executives exceeding $5 value
+  - **Key**: IP-Locked Key
+  - **Support Priority**: Medium
+
+- **@Early Supporter/Contributor**
+  - **Tokens**: 225,000 per day
+  - **Messages**: Approximately 450 messages per day
+  - **Access Level**: Early one-time donors to ZukiJourney Executives (Unavailable for Purchase)
+  - **Key**: IP-Locked Key
+  - **Support Priority**: Medium
+
+- **@Subscriber**
+  - **Tokens**: 450,000 per day
+  - **Messages**: Approximately 900 messages per day
+  - **Access Level**: Subscribers to the KoFi of @zukixa with a monthly contribution of about $10
+  - **Key**: IP-Free Key
+  - **Support Priority**: High
+
+- **@Enterprise**
+  - **Tokens**: 2,500,000 per day
+  - **Messages**: Approximately 5,000 messages per day
+  - **Access Level**: Subscribers to the KoFi of @zukixa with a monthly contribution of $100
+  - **Key**: IP-Free Key
+  - **Support Priority**: Highest
+
 
 #### Additional Payment Information
 
