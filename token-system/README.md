@@ -73,7 +73,7 @@ Here's a nicely formatted version of the daily token allowances with clear headi
 
 - **@Enterprise**
   - **Tokens**: 4,000,000 per day
-  - **Messages**: Approximately 8,000 messages per day
+  - **Messages**: Approximately 10,000 messages per day
   - **Access Level**: Subscribers to the KoFi of @zukixa with a monthly contribution of $100
   - **Key**: IP-Free Key
   - **Support Priority**: Highest
