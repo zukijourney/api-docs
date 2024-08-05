@@ -11,3 +11,4 @@
   - **JAVA**: [GitHub - zukiJava](https://github.com/Sabsterrexx/zukiJava)
   - **PYTHON**: [GitHub - zukiPy](https://github.com/Launchers-1/zukiPy)
   - **ASSEMBLY**: [GitHub - ZukiChatRequestAssembly](https://github.com/programmer1o1/ZukiChatRequestAssembly)
+  - **FORTRAN**: [Github-ZukiChatRequestFortran](https://github.com/programmer1o1/ZukiChatRequestFortran)
