@@ -1,36 +1,38 @@
 # Token System Overview
 
-#### Daily Token Grant
+### Daily Token Grant
 
 - Every 24 hours, you are eligible for a token grant, which is available if your current token balance is below 6969 tokens. You can apply for this grant using the `/daily` command.
 
-#### Token Equivalence
+### Token Equivalence
 
 - Tokens are equivalent to OpenAI tokens: 1 OpenAI token equals 1 ZukiJourney token.
 - Usage example: if a system prompt uses 200 OpenAI tokens and your request uses 20 tokens with a response of 180 tokens, you will be charged 400 ZukiJourney tokens (exactly the total OpenAI tokens used).
 - Special note: Certain 'very short' requests incur an additional cost. Specific details on penalizations are undisclosed to prevent abuse such as spamming the input with nonsense.
 
-#### Cost Multipliers by Model
+### Cost Multipliers by Model
 
-- Different models affect the token cost by certain multipliers:
+- Different chat models affect the token cost by certain multipliers:
   | Multiplier | Models/Categories |
   | --- | --- |
-  | 1.5x | all multimodal/tools requests, claude-3-opus, gpt-4-1106-preview and later |
-  | 1.25x | gpt-4-32k and later, claude-3-sonnet/haiku, gemini-1.5 |
-  | 1x | all models with provider=perplexity or deepinfra, gpt-3.5, claude-2, mistrals, gemini-pro |
-  | 0.75x | all models by replicate |
-  | 0.5x | all models by cloudflare & our own models: caramelldansen-1 & caramelldansen-1-plus |
+  | 1.5x | gpt-4-1106-preview and later, claude-3-opus and later, gpt-4-vision-preview |
+  | 1.25x | gpt-4 and later, claude-3-sonnet |
+  | 1x | gpt-4o-mini + all non-4 gpt models, claude-3-haiku and before, All Gemini/Mistral-Series models |
+  | 0.5x | all other models not developed by zukijourney |
+  | 0.25x | our own models: caramelldansen-1 & caramelldansen-1-plus |
 
-#### Specific Costs for Various Endpoints
+- Similar scenario applies for image models.
+  | Cost per Request | Models |
+  | --- | --- |
+  | 42,000 | Midjourney |
+  | 2500 | DALLE-2 and later + Stable-Diffusion-3-large + Stable-Image-Ultra/Core and later |
+  | 250 | Stable-Diffusion-3-Medium & the Flux model series. |
+  | 100 | All models provided by Prodia. |
 
-- Images: Midjourney: 42k, SD3/DALLE-3: 2500, replicate: 250, prodia: 100
-- Embeddings, moderations, upscale, text translations, all audio: static cost of 100 tokens per request
+### Specific Costs for the Other Endpoints
 
-### Token Allocation Based on Roles
-
-Here's a nicely formatted version of the daily token allowances with clear headings and standardized descriptions to enhance readability:
-
----
+- All Audio, Embeddings, Image-Upscaling @ 100 tokens per request
+- Moderations, Text-Translations @ 10 tokens per request
 
 ### **Daily Token Allowances**
 
