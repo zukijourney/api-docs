@@ -1,5 +1,8 @@
 # zukijourney-api <--> V2.5 Documentation
 
+# NOTE: Maintenance of this documentation has now moved to
+# --> [https://docs.xyzbot.net](https://docs.xyzbot.net)
+
 Welcome to the zukijourney api -- the largest multi-ai api of its kind! This guide provides a comprehensive overview of all essential facets of the API's operation. The documentation is generally kept 100% up-to-date and should be regarded as the definitive source of information.
 
 You can compare us to other APIs, as provided by our other list **https://github.com/zukixa/cool-ai-stuff** , but it is very clear from that list that we are #1 :)
